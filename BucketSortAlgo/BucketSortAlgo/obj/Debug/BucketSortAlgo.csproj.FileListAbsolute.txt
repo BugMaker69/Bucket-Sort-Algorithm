@@ -1,0 +1,11 @@
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\bin\Debug\BucketSortAlgo.exe.config
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\bin\Debug\BucketSortAlgo.exe
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\bin\Debug\BucketSortAlgo.pdb
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\obj\Debug\BucketSortAlgo.csproj.AssemblyReference.cache
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\obj\Debug\BucketSortAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\obj\Debug\BucketSortAlgo.Properties.Resources.resources
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\obj\Debug\BucketSortAlgo.csproj.GenerateResource.cache
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\obj\Debug\BucketSortAlgo.csproj.CoreCompileInputs.cache
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\obj\Debug\BucketSortAlgo.exe
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\obj\Debug\BucketSortAlgo.pdb
+C:\Users\grobe\source\repos\BucketSortAlgo\BucketSortAlgo\obj\Debug\BucketSortAlgo.BucketAlg.resources
